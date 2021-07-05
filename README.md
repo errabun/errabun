@@ -8,6 +8,6 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/eric-rabun-5b20a8
 
 Technologies: 
 
-<img src="https://mildaintrainings.com/wp-content/uploads/2017/11/react-logo.png" alt="react" width="100" height="auto" />
-<img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="javascript" width="100" height="auto" />
+<img src="https://mildaintrainings.com/wp-content/uploads/2017/11/react-logo.png" alt="react" width="75" height="30" />
+<img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="javascript" width="75" height="30" />
 
